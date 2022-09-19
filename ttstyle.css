@@ -1,1 +1,8 @@
+@font-face {
+    font-family: MontserratAlternatesRegular;
+    src: url('../MontserratAlternates-Regular.ttf');
+}
 
+html {
+    font-family: MontserratAlternatesRegular;
+}
